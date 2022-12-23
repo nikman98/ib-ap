@@ -150,3 +150,14 @@
             <artifactId>byte-buddy</artifactId>
             <version>1.10.4</version>
         </dependency>
+	
+	
+	
+	
+	
+	server.port=8082
+
+spring.data.mongodb.uri=${MONGO_URL_NEWS}
+
+spring.application.name=newsservice
+
